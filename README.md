@@ -1,9 +1,16 @@
 # 👋 Hi, I'm Safwan SM
 
-📍 Mangaluru, Karnataka - 574142, India  
+📍 Mangaluru, Karnataka - 574142, India 
+
 📧 safwansullia21@gmail.com  
+
 🐙 GitHub: [@therealsafwan](https://github.com/therealsafwan)
+
 🔗 LinkedIn: [Safwan SM](https://www.linkedin.com/in/safwan-sm-609929317/) 
+
+💻 HackerRank: [@therealsafwann](https://www.hackerrank.com/profile/therealsafwann)
+
+🧠 LeetCode: [@therealsafwann](https://leetcode.com/u/therealsafwann/)
 
 ---
 
