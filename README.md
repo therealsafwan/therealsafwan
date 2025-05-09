@@ -1,79 +1,92 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#2F80ED;">Safwan SM</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Safwan+SM+%F0%9F%91%8B;Welcome+to+my+GitHub!+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">
+  <span style="font-size: 1.3em; color:#2F80ED;"><strong>👨‍💻 Developer | 🧠 Learner | 🚀 Tech Explorer</strong></span>
+</h3>
+
 
 <p align="center">
-  🌍 Mangaluru, Karnataka – 574142, India • 📧 <a href="mailto:safwansullia21@gmail.com">safwansullia21@gmail.com</a>
+  🌍 Mangaluru, Karnataka, India &nbsp;•&nbsp; 📧 <a href="mailto:safwansullia21@gmail.com">safwansullia21@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/therealsafwan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/safwan-sm-609929317/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/therealsafwann"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/therealsafwann/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
+  <a href="https://github.com/therealsafwan">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/safwan-sm-609929317/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/therealsafwann">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/therealsafwann/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Projects
+## 🚀 Projects
 
-### 🚀 Skill Sphere — _AI-Powered Corporate Training Platform_  
-**🔧 Tech Stack:** `React.js`, `HTML`, `CSS`, `Cassandra`  
-✅ Personalized learning paths  
-✅ Gamified learning experience  
-✅ Real-time analytics dashboard  
-> _Empowering organizations to foster continuous learning and performance excellence._
-
----
-
-### 💊 Pharmacy Management System — _Smart Inventory Solution_  
-**🔧 Tech Stack:** `PHP`, `HTML`, `CSS`, `SQL`  
-✅ Real-time medicine stock tracking  
-✅ Expiry alerts to reduce losses  
-✅ Quick search for efficient access  
-> _Built to streamline pharmacy workflows and inventory tracking._
+### 🎯 Skill Sphere — *AI-Powered Corporate Training Platform*  
+**Tech Stack:** `React.js`, `HTML`, `CSS`, `Cassandra`  
+- 🎓 Personalized learning paths  
+- 🕹️ Gamified learning experience  
+- 📊 Real-time analytics dashboard  
+> Empowering organizations to foster continuous learning and performance excellence.
 
 ---
 
-### 💸 Fintrack — _Offline Android Expense Tracker_  
-**🔧 Tech Stack:** `Java`, `XML`, `Android Studio`  
-✅ Intuitive user interface  
-✅ Real-time expense logging  
-✅ Offline mode with local database  
-> _Helping users take control of personal finances with ease._
+### 💊 Pharmacy Management System — *Smart Inventory Solution*  
+**Tech Stack:** `PHP`, `HTML`, `CSS`, `SQL`  
+- 💉 Real-time medicine stock tracking  
+- ⏰ Expiry alerts to reduce losses  
+- 🔍 Quick search for efficient access  
+> Streamlining pharmacy workflows and boosting operational efficiency.
+
+---
+
+### 💸 Fintrack — *Offline Android Expense Tracker*  
+**Tech Stack:** `Java`, `XML`, `Android Studio`  
+- 📱 Intuitive user interface  
+- 🧾 Real-time expense logging  
+- 📴 Offline functionality with local storage  
+> Helping users take control of personal finances with ease.
 
 ---
 
 ## 🧠 Skills & Tools
 
-| Languages        | Web                          | Databases        | Tools          | Soft Skills                          |
-|------------------|-------------------------------|------------------|----------------|--------------------------------------|
-| Python, Java     | HTML, CSS, React.js, PHP     | SQL, Cassandra   | Android Studio | Communication, Teamwork, Time Management |
+| Frontend         | Backend       | Databases        | Tools           | Soft Skills                        |
+|------------------|---------------|------------------|------------------|-------------------------------------|
+| HTML, CSS, React | PHP, Java     | SQL, Cassandra   | Android Studio   | Communication, Teamwork, Time Management |
 
-🌐 **Languages Spoken:** English, Malayalam, Kannada, Hindi, Nawayaths, Tamil, Telugu, Tulu
+🌐 **Languages Spoken:**  
+English, Malayalam, Kannada, Hindi, Nawayaths, Tamil, Telugu, Tulu
 
 ---
 
-## 📈 GitHub Stats & Streaks
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealsafwan&show_icons=true&theme=radical" alt="Safwan's GitHub stats" width="49%" />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=therealsafwan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsafwan&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsafwan&layout=compact&theme=radical" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therealsafwan&theme=radical&row=1&margin-w=15&margin-h=15" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=therealsafwan&theme=radical&row=1&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 📫 Get in Touch
+## 📬 Let's Connect
 
-📧 [safwansullia21@gmail.com](mailto:safwansullia21@gmail.com)  
-🐙 [@therealsafwan](https://github.com/therealsafwan)
+- 📧 [Email](mailto:safwansullia21@gmail.com)  
+- 🐙 [GitHub](https://github.com/therealsafwan)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/safwan-sm-609929317/)
 
 ---
 
-_“Code. Learn. Build. Repeat.”_
+<p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>
