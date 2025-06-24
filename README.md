@@ -6,7 +6,6 @@
   <span style="font-size: 1.3em; color:#2F80ED;"><strong>👨‍💻 Developer | 🧠 Learner | 🚀 Tech Explorer</strong></span>
 </h3>
 
-
 <p align="center">
   🌍 Mangaluru, Karnataka, India &nbsp;•&nbsp; 📧 <a href="mailto:safwansullia21@gmail.com">safwansullia21@gmail.com</a>
 </p>
@@ -23,6 +22,9 @@
   </a>
   <a href="https://leetcode.com/u/therealsafwann/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.youware.com/project/wipsbe9uwl">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
 
@@ -85,7 +87,8 @@ English, Malayalam, Kannada, Hindi, Nawayaths, Tamil, Telugu, Tulu
 
 - 📧 [Email](mailto:safwansullia21@gmail.com)  
 - 🐙 [GitHub](https://github.com/therealsafwan)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/safwan-sm-609929317/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/safwan-sm-609929317/)  
+- 🌐 [Portfolio](https://www.youware.com/project/wipsbe9uwl)
 
 ---
 
