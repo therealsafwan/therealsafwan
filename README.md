@@ -23,7 +23,7 @@
   <a href="https://leetcode.com/u/therealsafwann/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.youware.com/project/wipsbe9uwl">
+  <a href="https://safwan-sm.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
